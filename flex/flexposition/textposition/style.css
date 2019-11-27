@@ -1,0 +1,74 @@
+﻿body
+{
+	background-color: black;
+
+}
+
+.nalvar
+{
+	color: 000#;
+	text-transform: uppercase;
+		font-size: 25px;
+		font-weight:bold;
+
+		
+
+}
+.info
+{
+	position: absolute;
+	left:10%;
+	top:10%;
+	    background-color: orange;
+	    padding: 10px 10px 10px 10px;
+
+}
+.home
+{
+	position: absolute;
+	left: 25%;
+	top:10%;
+	  background-color: orange;
+	    padding: 10px 10px 10px 10px;
+
+}
+.about
+{
+	position: absolute;
+	left: 40%;
+	top:10%;
+	  background-color: orange;
+	    padding: 10px 10px 10px 10px;
+
+}
+.news
+{
+	position: absolute;
+	left: 55%;
+	top:10%;
+	  background-color: orange;
+	    padding: 10px 10px 10px 10px;
+
+	
+}
+
+.info:hover
+{
+	color: green;
+	transition: 1s;
+}
+.about:hover
+{
+	color: green;
+	transition: 1s;
+}
+.home:hover
+{
+	color: green;
+	transition: 1s;
+}
+.news:hover
+{
+	color:green;
+	transition: 1s;
+}
