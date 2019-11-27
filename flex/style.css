@@ -1,0 +1,55 @@
+
+body
+{
+	background-color: black;
+	height: 100vh;
+	font-family: poppins;
+	font-weight: 600;
+	font-size: 17px;
+}
+a
+{
+	text-decoration: none;
+
+}
+
+header
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 100px;
+}
+
+.nav
+{
+	list-style: none;
+}
+
+.nav li
+{
+display: inline-block;
+padding: 0 15px;
+text-transform: uppercase;
+}
+.nav li a
+{
+	transition: 2s;
+	color: #fff;
+}
+
+.nav li a:hover
+{
+	color:orange;
+	border-style: solid;
+	padding:10px 10px 10px 10px;
+
+}
+
+.kim
+{
+	color: #fff;
+}
+
+
+.hub{}
